@@ -1,0 +1,6 @@
+env/
+db/*
+hud/node_modules
+hud/.env
+data/*
+generated/*
