@@ -1,5 +1,4 @@
 <div align="left">
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="40%" align="left" style="margin-right: 15px"/>
     <div style="display: inline-block;">
         <h2 style="display: inline-block; vertical-align: middle; margin-top: 0;">AI_247_PODCAST</h2>
         <p>
